@@ -1,2 +1,5 @@
-# Advent-of-Code-2019
-My solutions to the 2019 Advent of Code in JavaScript
+# Advent of Code 2019
+
+That it is. https://adventofcode.com/2019
+
+JavaScript because I'm lazy.
